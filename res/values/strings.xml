@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">一键锁屏</string>
+    <string name="lock">开启一键锁屏</string>
+    <string name="shortcut">创建桌面快捷方式</string>
+    <string name="uninstall">一键卸载本应用</string>
+    <string name="description">想要使用一键锁屏，必须激活设备管理权限哦！</string>
+
+</resources>
